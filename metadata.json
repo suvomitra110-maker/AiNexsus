@@ -1,0 +1,10 @@
+{
+  "name": "SparkAi.com",
+  "description": "Gamified AI study platform with proficiency-calibrated lessons, adaptive quizzes, D3 growth curves, Pomodoro sprint timer, and offline Room caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
+
+
